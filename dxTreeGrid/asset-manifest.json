@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4ec7109.css",
-    "main.js": "/static/js/main.e74c40c7.js",
-    "static/js/787.183b0e82.chunk.js": "/static/js/787.183b0e82.chunk.js",
-    "static/media/dxicons.woff": "/static/media/dxicons.cddb11d12a66eecb2f0d.woff",
-    "static/media/dxicons.ttf": "/static/media/dxicons.a88de75fd8fdacc709cb.ttf",
-    "static/media/dxicons.woff2": "/static/media/dxicons.4138d446bde3e2754b63.woff2",
-    "index.html": "/index.html",
-    "main.b4ec7109.css.map": "/static/css/main.b4ec7109.css.map",
-    "main.e74c40c7.js.map": "/static/js/main.e74c40c7.js.map",
-    "787.183b0e82.chunk.js.map": "/static/js/787.183b0e82.chunk.js.map"
+    "main.css": "/dxTreeGrid/static/css/main.eeed6b0b.css",
+    "main.js": "/dxTreeGrid/static/js/main.7675028a.js",
+    "static/js/787.183b0e82.chunk.js": "/dxTreeGrid/static/js/787.183b0e82.chunk.js",
+    "static/media/dxicons.woff": "/dxTreeGrid/static/media/dxicons.cddb11d12a66eecb2f0d.woff",
+    "static/media/dxicons.ttf": "/dxTreeGrid/static/media/dxicons.a88de75fd8fdacc709cb.ttf",
+    "static/media/dxicons.woff2": "/dxTreeGrid/static/media/dxicons.4138d446bde3e2754b63.woff2",
+    "index.html": "/dxTreeGrid/index.html",
+    "main.eeed6b0b.css.map": "/dxTreeGrid/static/css/main.eeed6b0b.css.map",
+    "main.7675028a.js.map": "/dxTreeGrid/static/js/main.7675028a.js.map",
+    "787.183b0e82.chunk.js.map": "/dxTreeGrid/static/js/787.183b0e82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4ec7109.css",
-    "static/js/main.e74c40c7.js"
+    "static/css/main.eeed6b0b.css",
+    "static/js/main.7675028a.js"
   ]
 }
