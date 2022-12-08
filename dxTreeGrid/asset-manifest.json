@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dxTreeGrid/static/css/main.eeed6b0b.css",
-    "main.js": "/dxTreeGrid/static/js/main.4ce3dc0b.js",
+    "main.css": "/dxTreeGrid/static/css/main.a4c78d26.css",
+    "main.js": "/dxTreeGrid/static/js/main.7c458cfd.js",
     "static/js/787.183b0e82.chunk.js": "/dxTreeGrid/static/js/787.183b0e82.chunk.js",
-    "static/media/dxicons.woff": "/dxTreeGrid/static/media/dxicons.cddb11d12a66eecb2f0d.woff",
-    "static/media/dxicons.ttf": "/dxTreeGrid/static/media/dxicons.a88de75fd8fdacc709cb.ttf",
-    "static/media/dxicons.woff2": "/dxTreeGrid/static/media/dxicons.4138d446bde3e2754b63.woff2",
+    "static/media/dxicons.ttf": "/dxTreeGrid/static/media/dxicons.d8b3a23c53b0d8228c97.ttf",
+    "static/media/dxicons.woff": "/dxTreeGrid/static/media/dxicons.ade87a8c195f5857dcf3.woff",
+    "static/media/dxicons.woff2": "/dxTreeGrid/static/media/dxicons.d601b53ecf670dd37f5c.woff2",
     "index.html": "/dxTreeGrid/index.html",
-    "main.eeed6b0b.css.map": "/dxTreeGrid/static/css/main.eeed6b0b.css.map",
-    "main.4ce3dc0b.js.map": "/dxTreeGrid/static/js/main.4ce3dc0b.js.map",
+    "main.a4c78d26.css.map": "/dxTreeGrid/static/css/main.a4c78d26.css.map",
+    "main.7c458cfd.js.map": "/dxTreeGrid/static/js/main.7c458cfd.js.map",
     "787.183b0e82.chunk.js.map": "/dxTreeGrid/static/js/787.183b0e82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eeed6b0b.css",
-    "static/js/main.4ce3dc0b.js"
+    "static/css/main.a4c78d26.css",
+    "static/js/main.7c458cfd.js"
   ]
 }
